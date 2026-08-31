@@ -1,5 +1,5 @@
 # Amazon Customers Sentiment Analysis
-
+![Amazon Customers Sentiment Analysis](Project_Summary_pic.png)
 ## Project Overview
 
 This project analyzes Amazon customer reviews to understand customer satisfaction, sentiment, ratings, and common patterns in customer feedback.
